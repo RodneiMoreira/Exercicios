@@ -1,0 +1,9 @@
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\bin\Debug\calculadoraPJ.exe.config
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\bin\Debug\calculadoraPJ.exe
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\bin\Debug\calculadoraPJ.pdb
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\obj\Debug\calculadoraPJ.csprojAssemblyReference.cache
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\obj\Debug\calculadoraPJ.Form1.resources
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\obj\Debug\calculadoraPJ.Properties.Resources.resources
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\obj\Debug\calculadoraPJ.csproj.GenerateResource.cache
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\obj\Debug\calculadoraPJ.exe
+C:\Users\rodnei.moreira\source\repos\calculadoraPJ\obj\Debug\calculadoraPJ.pdb
