@@ -1,0 +1,6 @@
+C:\Users\rodnei.moreira\source\repos\NovaCalculadora\bin\Debug\NovaCalculadora.exe.config
+C:\Users\rodnei.moreira\source\repos\NovaCalculadora\bin\Debug\NovaCalculadora.exe
+C:\Users\rodnei.moreira\source\repos\NovaCalculadora\bin\Debug\NovaCalculadora.pdb
+C:\Users\rodnei.moreira\source\repos\NovaCalculadora\obj\Debug\NovaCalculadora.csprojAssemblyReference.cache
+C:\Users\rodnei.moreira\source\repos\NovaCalculadora\obj\Debug\NovaCalculadora.exe
+C:\Users\rodnei.moreira\source\repos\NovaCalculadora\obj\Debug\NovaCalculadora.pdb
